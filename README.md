@@ -1,6 +1,6 @@
-# Signage Group India Pvt. Ltd. – Premium Corporate Signage Website
+# Signage Group India Pvt. Ltd.
 
-![Homepage mockup](file:///Users/shekharthathera/.gemini/antigravity-ide/brain/8e9ee372-f507-46d5-a1c5-2e703ab38c7f/signage_homepage_1790243873178.jpg)
+![Homepage mockup](src/Signage-Group-Logos-2.svg)
 
 ## ✨ Overview
 A high‑performance, **Next.js 16** website that positions **Signage Group India Pvt. Ltd.** as a premium, scalable visual‑communication partner. The site showcases the company's capabilities in signage, printing, fabrication and brand‑execution with modern UI/UX, dark‑mode aesthetics, glass‑morphism, micro‑animations, and SEO‑optimised markup.
@@ -47,4 +47,4 @@ Or connect the GitHub repo to the Vercel dashboard and let it handle the CI/CD.
 GitHub: https://github.com/Shekhar854/Signage-group
 
 ---
-*Created with Shekhar ❤️ .*
+*Created By Shekhar ❤️ .*
